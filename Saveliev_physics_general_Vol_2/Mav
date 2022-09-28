@@ -3,13 +3,12 @@
 %!TEX encoding = UTF-8 Unicode
 
 
-\chapter[THE CLASSICAL THEORY OF ELECTRICAL CONDUCTANCE\\ OF METALS]{THE CLASSICAL THEORY
-OF\\ ELECTRICAL CONDUCTANCE OF\\ METALS}\label{chap:11}
+\chapter[THUYẾT VỀ SỰ DẪN ĐIỆN CỦA PHÂN TỬ\\ TRONG KIM LOẠI]{THUYẾT VỀ SỰ DẪN ĐIỆN CỦA PHÂN TỬ\\ TRONG KIM LOẠI}\label{chap:11}
 \chaptermark{CLASSICAL THEORY OF ELECTRICAL CONDUCTANCE OF METALS}
 
-\section{The Nature of Current Carriers in Metals}\label{sec:11_1}
+\section{Bản chất của hạt mang điện tích}\label{sec:11_1}
 
-A number of experiments were run to reveal the nature of the current carriers in metals.
+Đã có rất nhiều những thí nghiệm được thực hiện nhằm giải mã bản chất của những hạt mang điện tích trong kim loại
 Let us first of all note the experiment conducted in 1901 by the German physicist Carl Riecke (1845-1915).
 He took three cylinders---two of copper and one of aluminium---with thoroughly polished ends.
 After being weighed, the cylinders were put end to end in the sequence copper-aluminium-copper.
